@@ -1,0 +1,77 @@
+.foo {
+  background-color: #e1e5e9;
+  font-family: "Segoe UI";
+  overflow: scroll;
+}
+a {
+  color: black;
+}
+i.fab {
+  margin-inline: 10px;
+  color: #e1e5e9;
+  background-color: black;
+  padding: 7px;
+  font-size: 22px;
+  width: 22px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
+.sosmed {
+  text-align: center;
+  margin-top: 40px;
+}
+.img-card {
+  margin: auto;
+  width: 350px;
+  border-radius: 5px;
+  margin-top: 40px;
+  padding-bottom: 10px;
+  text-align: center;
+  box-shadow: 0.3px 1.5px 2.2px rgba(0, 0, 0, 0.02),
+    0.8px 3.7px 5.3px rgba(0, 0, 0, 0.028), 1.5px 7px 10px rgba(0, 0, 0, 0.035),
+    2.7px 12.5px 17.9px rgba(0, 0, 0, 0.042),
+    5px 23.4px 33.4px rgba(0, 0, 0, 0.05), 12px 56px 80px rgba(0, 0, 0, 0.07);
+}
+.me {
+  border-top-right-radius: 7px;
+  border-top-left-radius: 7px;
+  width: 350px;
+}
+.card {
+  border-radius: 7px;
+  margin: auto;
+  width: 500px;
+  background-color: #ffff;
+  box-shadow: 0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+    0 6.7px 5.3px rgba(0, 0, 0, 0.048), 0 12.5px 10px rgba(0, 0, 0, 0.06),
+    0 22.3px 17.9px rgba(0, 0, 0, 0.072), 0 41.8px 33.4px rgba(0, 0, 0, 0.086),
+    0 100px 80px rgba(0, 0, 0, 0.12);
+  padding-left: 250px;
+  padding-right: 250px;
+  padding-top: 50px;
+  margin-top: 80px;
+  margin-bottom: 80px;
+  padding-bottom: 50px;
+}
+.button {
+  background-color: #0c0525;
+  border: none;
+  color: white;
+  padding: 20px;
+  font-size: 16px;
+  margin-top: 10px;
+}
+.contact {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 300;
+  line-height: 0%;
+  height: 40px;
+  border-radius: 50px;
+  width: 115px;
+}
+.a-download {
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 18px;
+}
